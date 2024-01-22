@@ -13,7 +13,7 @@ const Banner = () => {
               </h3>
             </div> */}
             <h1 className="text-midnightblue text-4xl sm:text-5xl font-semibold text-center lg:text-start lh-120 pt-5 lg:pt-0">
-              CLOUD MAVIN'S CYBER ACADEMY
+              CLOUD MAVIN&apos;S CYBER ACADEMY
             </h1>
             <h2 className="text-charcoal text-xl font-normal text-center lg:text-start opacity-75 pt-5 lg:pt-0">
               Empowering Beginners, Forging Defenders.
