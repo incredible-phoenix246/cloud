@@ -157,9 +157,9 @@ export default class MultipleItems extends Component {
                     <h4 className="text-2xl font-bold pt-6 text-black">
                       {items.heading}
                     </h4>
-                    <h4 className="text-2xl font-bold pt-1 text-black">
+                    {/*<h4 className="text-2xl font-bold pt-1 text-black">
                       {items.heading2}
-                    </h4>
+                    </h4>*/}
 
                     <div>
                       <h3 className="text-base font-normal pt-6 opacity-75">
