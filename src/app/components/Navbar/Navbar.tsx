@@ -61,7 +61,7 @@ const Navbar = () => {
               {/* LOGO */}
 
               <div className="flex flex-shrink-0 items-center">
-                <img
+           {/ *  <img
                   className="block h-12 w-40 lg:hidden"
                   src={'/assets/logo/logo.png'}
                   alt="dsign-logo"
@@ -71,7 +71,7 @@ const Navbar = () => {
                   src={'/assets/logo/logo.png'}
                   alt="dsign-logo"
                 />
-              </div>
+              </div> */}
 
               {/* LINKS */}
 
