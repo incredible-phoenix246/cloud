@@ -65,13 +65,13 @@ const Navbar = () => {
                   className="block h-12 w-40 lg:hidden"
                   src={'/assets/logo/logo.png'}
                   alt="dsign-logo"
-                />
-                <img
+                /> */}
+       {/*         <img
                   className="hidden h-full w-full lg:block"
                   src={'/assets/logo/logo.png'}
                   alt="dsign-logo"
-                />
-              </div> */}
+                />*/}
+              </div>
 
               {/* LINKS */}
 
