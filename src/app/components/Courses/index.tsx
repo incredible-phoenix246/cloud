@@ -20,7 +20,7 @@ interface DataType {
 
 const postData: DataType[] = [
   {
-    heading: '2 months beginners program',
+    heading: '1 months beginners program',
     heading2: 'javascript',
     name: 'Colt stelle',
     imgSrc: '/assets/courses/courseone.png',
@@ -30,7 +30,7 @@ const postData: DataType[] = [
     rating: 4.7
   },
   {
-    heading: '4 months beginners program',
+    heading: '3 months beginners program',
     heading2: 'with React programme',
     name: 'Colt stelle',
     imgSrc: '/assets/courses/coursetwo.png',
@@ -40,7 +40,7 @@ const postData: DataType[] = [
     rating: 4.7
   },
   {
-    heading: '6 months beginners program',
+    heading: '5 months beginners program',
     heading2: 'with Figma',
     name: 'Colt stelle',
     imgSrc: '/assets/courses/computer_networking.jpg',
